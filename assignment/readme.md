@@ -9,6 +9,7 @@
 * The game has a maximum number of guesses.
 * If the user reaches the maximum number of guesses, the game ends.
 * If the user guesses correctly, the game ends, and gives the user the number of guesses it took to get to the number.
+* If you get stuck and don't feel like you're getting anywhere feel free to reach out and we can pair program. Try for at least an hour!
 
 
 _**hint**: google the random module in python_
